@@ -24,4 +24,4 @@ To run, you will need:
 ---
 Odji Chrissy 📩[satyananda.chrissy@gmail.com](mailto:satyananda.chrissy@gmail.com)
 
-[Linkedin](www.linkedin.com/in/chrissysatyananda) | [Github](https://github.com/odjichrissy)
+[Linkedin](https://linkedin.com/in/chrissysatyananda) | [Github](https://github.com/odjichrissy)
