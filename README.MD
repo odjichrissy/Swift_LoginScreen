@@ -11,6 +11,11 @@ Designing a simple login screen on swift
     <img src="Documentation/shot1.png">
 </p>
 
+### Run🖊
+To run this project, simply open:
+```
+14_LoginScreen.xcodeproj
+```
 
 ### Requirement🖊
 To run, you will need:
